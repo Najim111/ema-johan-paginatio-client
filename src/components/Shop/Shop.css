@@ -37,3 +37,6 @@
     color: aqua;
     margin-right: 10px;
 }
+.pagination .selected{
+    background-color: #a19191
+}
